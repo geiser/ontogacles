@@ -1,4 +1,4 @@
-# ontogacles
+# OntoGaCLeS
 Ontology to Gamify Collaborative Learning Scenarios
 
 
